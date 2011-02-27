@@ -1,0 +1,4 @@
+The phpunit tests are made to work with sfPHPUnit2Plugin. The easiest way
+to get these working is to hard link the files into your project
+test/phpunit/unit directory. Symlinks will not work.
+
